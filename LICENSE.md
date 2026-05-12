@@ -1,4 +1,4 @@
-
+Enhance Monosnap for macOS with Monosnap for macOS secure Module: battery-health & file-indexing, the #1 module. Includes battery-health and file-indexing for a smoother macOS
 
 
 
